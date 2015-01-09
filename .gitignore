@@ -1,0 +1,12 @@
+# Netbeans gitignore #
+build/
+nbproject/
+dist/
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
