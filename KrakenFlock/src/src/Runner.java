@@ -7,4 +7,12 @@ package src;
  */
 public class Runner {
     
+    /**
+     *  Default Constructor
+     */
+    public Runner()
+    {
+        
+    }
+    
 }
