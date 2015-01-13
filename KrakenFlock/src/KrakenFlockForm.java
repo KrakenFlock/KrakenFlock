@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Espeonage - Kyle
+ * @author Kyle Amos, Kevin Ye
  */
 public class KrakenFlockForm extends javax.swing.JFrame {
 
