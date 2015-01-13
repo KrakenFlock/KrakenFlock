@@ -1,6 +1,5 @@
 # Netbeans gitignore #
 build/
-nbproject/
 dist/
 
 # Class Files #
